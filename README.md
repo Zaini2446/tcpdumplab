@@ -1,11 +1,15 @@
-# TCPdump Lab Instructions
+# TCPdump Lab
 
-Welcome to the TCPdump lab! In this lab, you will learn how to use TCPdump, a powerful packet analyzer. Follow the step-by-step instructions below to complete the lab.
+TCPdump is a robust, yet user-friendly, network packet analyzer that showcases network traffic from your network interfaces. You can easily apply elementary filters to focus on specific IP addresses, networks, TCP/UDP ports, and ICMP packets, thereby narrowing down the displayed or recorded traffic. Notably, TCPdump refrains from interpreting the data, leaving this task to the discretion of the analyst. The tool leans on the libpcap driver interface for the actual process of capturing Ethernet frames from the network wire. For more comprehensive information about the TCPdump and libpcap project, please visit https://www.tcpdump.org.
 
 ## Lab Overview
 
-- **Objective**: Learn the basics of using TCPdump to capture and analyze network traffic.
-- **Duration**: 1 hour
+- **Objectives**:
+  - Introduction to tcpdump and basic commands.
+  - Running tcpdump and sniffing network traffic.
+  - Analyzing hex and ASCII data.
+  - Connecting to a non-listening TCP port.
+- **Duration**: 20 minutes
 - **Prerequisites**:
   - Basic knowledge of the Linux command line.
   - A Linux-based system with TCPdump installed.
