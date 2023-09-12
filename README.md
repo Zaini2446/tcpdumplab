@@ -16,7 +16,7 @@ TCPdump is a robust, yet user-friendly, network packet analyzer that showcases n
 
 ## Lab Steps
 
-1. [Introduction to TCPdump](tcpdump.md)
+1. [Introduction to TCPdump](Intrototcpdump.md)
 2. [Basic TCPdump Commands](Instructions/02-Basic-Commands.md)
 3. [Filtering Packets](Instructions/03-Filtering-Packets.md)
 4. [Saving Captured Data](Instructions/04-Saving-Data.md)
