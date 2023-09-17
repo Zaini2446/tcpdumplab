@@ -1,6 +1,6 @@
-# TCPdump Quick Start Guide
+# TCPdump Introduction
 
-Learn how to use TCPdump with these step-by-step instructions. This guide will walk you through common TCPdump commands and arguments.
+This guide will walk you through common TCPdump commands and arguments.
 
 ## Prerequisites
 
