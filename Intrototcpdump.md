@@ -21,7 +21,7 @@ tcpdump --help
 ```
  - This will display a list of available options and usage information for TCPdump.
 
-![alt text](https://github.com/Zaini2446/tcpdumplab/blob/main/tcpdumphelp.png?raw=true)
+![alt text](https://github.com/Zaini2446/tcpdumplab/blob/main/images/tcpdumphelp.png?raw=true)
 
 #### Step 3: Common TCPdump Commands and Arguments
 
