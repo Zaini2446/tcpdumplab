@@ -18,10 +18,8 @@ TCPdump is a robust, yet user-friendly, network packet analyzer that showcases n
 
 1. [Introduction to TCPdump and Basic Commands](Intrototcpdump.md)
 2. [Running TCP dump and Sniffing Network Traffic](runningtcpdump.md)
-3. [Filtering Packets](Instructions/03-Filtering-Packets.md)
-4. [Saving Captured Data](Instructions/04-Saving-Data.md)
-5. [Advanced TCPdump Usage](Instructions/05-Advanced-Usage.md)
-6. [Analyzing Captured Data](Instructions/06-Analyzing-Data.md)
+3. [Analyzing hex and ASCII data](analyzinghex&ascii.md)
+4. [Connecting to a non-listening TCP port](connecttononlisteningtcpport.md)
 
 ## Sample Capture Files
 
